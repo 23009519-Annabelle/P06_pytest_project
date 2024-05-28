@@ -12,3 +12,8 @@ class Calculator:
         if b == 0:
             raise ZeroDivisionError("Division by zero error")
         return a / b
+#test commit
+#test
+    # def power(self, a, b):
+    #     return a ** b
+    
